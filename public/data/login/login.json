@@ -1,0 +1,13 @@
+{
+    "data":{
+        "id": 500,
+        "rid": 0,
+        "username": "123",
+        "email": "123@qq.com",
+        "token": "Bearer"
+    },
+    "meta": {
+        "msg": "登入成功",
+        "status": 200
+    }
+}
